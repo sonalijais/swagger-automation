@@ -1,4 +1,4 @@
-module swagger
+module swagger-automation
 
 go 1.17
 
